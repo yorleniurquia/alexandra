@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.panel{
+    margin: 10px;
+    background: #efefef;
+    border: solid 1px #adadad;
+    font-family:  Arial;
+    font-size: 12px;
+    width: 250px;
+}
